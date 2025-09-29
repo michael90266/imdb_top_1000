@@ -26,3 +26,5 @@ Additional Consumer Price Index Data - 1913-2025:
 
 ## Tools and Skills Used
 - MySQL
+- Data Cleaning
+- Exploratory Data Analysis
