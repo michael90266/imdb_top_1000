@@ -1,3 +1,5 @@
+-- IMDB Top 1000 Exploratory Analysis
+
 SELECT *
 FROM top_movies.imdb_1000_clean;
 
