@@ -1,7 +1,7 @@
 # IMDB Top 1000 Movies - Cleaning and Exploratory Analysis
 
 ## Project Overview
-This is a data cleaning and exploratory analysis of the top 1000 movies ranked by IMDb. The point of this project is to showcase my proficiency in using SQL for data cleaning and analysis.
+This is a data cleaning and exploratory analysis of the top 1000 movies ranked by IMDB. The point of this project is to showcase my proficiency in using SQL for data cleaning and analysis.
 
 ## Files in This Repository
 - `imdb_1000_cleaning.sql` - SQL script containing the data cleaning proccess
